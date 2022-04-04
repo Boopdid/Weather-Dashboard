@@ -1,0 +1,22 @@
+header {
+  text-align: center;
+  background: rgb(112, 225, 245);
+  background: linear-gradient(
+    0deg,
+    rgb(91, 191, 238) 0%,
+    rgb(230, 159, 68) 100%
+  );
+}
+#currentWeather {
+  border: solid black;
+  padding: 10px;
+}
+
+#input {
+  width: 100%;
+}
+#btn {
+  width: 100%;
+  background-color: rgb(25, 145, 243);
+  margin-top: 10px;
+}
