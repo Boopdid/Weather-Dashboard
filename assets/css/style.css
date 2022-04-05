@@ -22,6 +22,10 @@ header {
   border: solid;
 }
 
+#savedCities button {
+  width: 100%;
+}
+
 .minDanger {
   background-color: green;
 }
@@ -40,4 +44,9 @@ header {
 
 .vhighRisk {
   background-color: purple;
+}
+.dayForecast {
+  background-color: rgb(50, 50, 98);
+  color: white;
+  margin: 10px;
 }
