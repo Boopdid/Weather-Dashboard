@@ -19,4 +19,25 @@ header {
   width: 100%;
   background-color: rgb(25, 145, 243);
   margin-top: 10px;
+  border: solid;
+}
+
+.minDanger {
+  background-color: green;
+}
+
+.lowRisk {
+  background-color: yellow;
+}
+
+.modRisk {
+  background-color: orange;
+}
+
+.highRisk {
+  background-color: red;
+}
+
+.vhighRisk {
+  background-color: purple;
 }
