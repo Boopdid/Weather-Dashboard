@@ -10,7 +10,7 @@ Created a weather dashboard that allows the user to search a city to get the cur
 
 ## Preview
 
-![Preview image for weather dashboard.](assets/images/weather-dashboard-pic.png)
+![Preview image for weather dashboard.](assets/images/Weather-Dashboard-pic.png)
 
 ## Technologies used
 
